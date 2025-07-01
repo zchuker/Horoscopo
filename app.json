@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Modal",
-    "slug": "Modal",
+    "name": "Horoscopo",
+    "slug": "Horoscopo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
